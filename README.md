@@ -74,4 +74,3 @@ Pure **HTML5 Canvas + JavaScript**. One `.html` file. No dependencies. Works in 
 
 ---
 
-*Made with Claude 🤖*
