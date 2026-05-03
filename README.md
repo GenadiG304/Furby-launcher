@@ -9,8 +9,7 @@
 
 ## 🎮 PLAY NOW
 
-### 👉 https://genadig304.github.io/Furby-launcher/furby-launcher.html
-
+# https://genadig304.github.io/Furby-launcher/furby-launcher-3.html
 
 ---
 
