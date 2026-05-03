@@ -11,7 +11,6 @@
 
 ### 👉 https://genadig304.github.io/Furby-launcher/furby-launcher.html
 
-*(Replace `YOUR_USERNAME` with your GitHub username after enabling GitHub Pages)*
 
 ---
 
